@@ -15,4 +15,5 @@ Baud Rate: 9600bps
 
 Example:
 
-	# ./usbser2relay.sh /dev/ttyUSB1 0
+	# ./test.py
+	
